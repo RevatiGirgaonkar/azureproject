@@ -15,7 +15,7 @@ namespace SampleWebAppRGAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Revati Girgaonkar's page.";
+            ViewBag.Message = "Revati Girgaonkar's page....Updated";
 
             return View();
         }
